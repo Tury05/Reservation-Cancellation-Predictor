@@ -1,4 +1,4 @@
-# Grupo Hotusa - Data Scientist Test
+# Reservation cancellation predictor
 
 El director de Revenue Management nos comenta que las cancelaciones tienen un impacto negativo en los resultados del hotel y se pregunta si con todo esto del Machine Learning y la Inteligencia Artificial seríamos capaces de predecir qué reservas van a cancelar y cuáles no. 
 
